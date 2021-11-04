@@ -9,6 +9,7 @@ int main()
 	std::cout << "Аня";
 	std::cout << "Аня";
 	std::cout << "Аня";
+	std::cout << "Аня";
 
 
 
